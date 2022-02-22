@@ -2,7 +2,7 @@
 fragment = "content"
 #disabled = true
 weight = 100
-#background = ""
+background = ""
 
 title = "Acerca de CANET"
 #subtitle = ""

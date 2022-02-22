@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://flianza.github.io/canet"
+baseurl = "https://canet.com.ar"
 languageCode = "es-es"
 title = "CANET"
 theme = "syna"
@@ -68,12 +68,12 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/nosotros"
+  url = "/#nosotros-content"
   name = "Nosotros"
   weight = 20
 
 [[menu.main]]
-  url = "/contacto"
+  url = "/#contacto-contact"
   name = "Contacto"
   weight = 30
 

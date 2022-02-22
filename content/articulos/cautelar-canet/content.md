@@ -9,8 +9,8 @@ title_align = "left"
 display_date = true
 
 #[asset]
-  #image = "sketch.jpg"
-  #text = "Sketching the start"
+#  image = "federal.jpg"
+#  text = "Sketching the start"
 +++
 
 En el mes de Diciembre de 2021, la Camara Argentina Nacional de Empresas Tabacaleras promovio una acción de impugnación de acto administrativo por ante la Justicia Federal de Santa Fe con su consecuente pedido de control de constitucionalidad respecto de la Resolucion General AFIP Nº5113, a los efectos de que se declare la ilegitimidad e inaplicabilidad de la RG mencionada, el cual modifica el aplicativo para poder realizar la correspondiente declaración jurada de impuestos internos, conforme Art.15 de la Ley 24674.
