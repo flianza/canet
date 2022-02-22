@@ -1,0 +1,4 @@
+baseURL = 'https://canet.com.ar/'
+languageCode = 'es-ar'
+title = 'CANET'
+theme = 'ananke'
