@@ -1,4 +1,4 @@
 baseURL = 'https://flianza.github.io/canet'
 languageCode = 'es-ar'
 title = 'CANET'
-theme = 'ananke'
+theme = 'syna'
