@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://flianza.github.io/canet/"
 languageCode = "es-es"
 title = "CANET"
 theme = "syna"
