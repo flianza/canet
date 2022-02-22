@@ -8,8 +8,8 @@ weight = 1200
 menu_title = "Link Title"
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
+  title = "CANET"
+  image = "logo.png"
   text = "Logo Subtext"
   url = "#"
 +++

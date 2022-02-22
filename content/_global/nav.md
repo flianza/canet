@@ -1,10 +1,10 @@
 +++
 fragment = "nav"
-weight = 0
-#background = "secondary"
+height = 100
+background = "secondary" # primary, secondary, success, danger, warning, info, light, dark, link
 sticky = true
 
 [asset]
-  image = "logo.svg"
+  image = "logo.png"
   text = "CANET"
 +++
