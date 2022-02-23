@@ -2,7 +2,7 @@
 fragment = "member"
 #disabled = false
 weight = 120
-background = "secondary"
+background = "dark"
 
 title = "Miembros Fundadores"
 #title_align = "left"

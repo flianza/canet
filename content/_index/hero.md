@@ -8,7 +8,7 @@ title = "CANET"
 subtitle = "Cámara Argentina Nacional de Empresas Tabacaleras"
 
 [header]
-  image = "header.jpg"
+  image = "header.jpeg"
 
 [asset]
   image = "logo.png"
