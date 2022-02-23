@@ -2,7 +2,7 @@
 fragment = "hero"
 weight = 50
 background = "light"
-particles = true
+particles = false
 
 title = "CANET"
 subtitle = "Cámara Argentina Nacional de Empresas Tabacaleras"
