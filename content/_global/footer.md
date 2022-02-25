@@ -7,7 +7,7 @@ background = "secondary"
 
 [asset]
   title = "CANET"
-  image = "logo.png"
+  image = "logo.jpg"
   text = "Logo CANET"
 +++
 

@@ -5,13 +5,12 @@ background = "light"
 particles = false
 
 title = "CANET"
-subtitle = "Cámara Argentina Nacional de Empresas Tabacaleras"
 
 [header]
-  image = "header.png"
+  image = "header.jpeg"
 
 [asset]
-  image = "logo.png"
+  image = "logo.jpg"
   width = "500px"
   #height = "150px"
 +++
