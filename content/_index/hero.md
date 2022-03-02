@@ -10,7 +10,7 @@ title = "CANET"
   image = "header.jpeg"
 
 [asset]
-  image = "logo.jpg"
+  image = "logo.png"
   width = "500px"
   #height = "150px"
 +++

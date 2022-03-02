@@ -5,6 +5,6 @@ background = "secondary" # primary, secondary, success, danger, warning, info, l
 sticky = true
 
 [asset]
-  image = "logo.jpg"
+  image = "logo.png"
   text = "CANET"
 +++
