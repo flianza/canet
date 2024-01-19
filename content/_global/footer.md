@@ -13,5 +13,8 @@ background = "secondary"
 
 #### Contacto
 
-Av. Gorriti 4785, Santa Fe, Santa Fe. CP 3000
+Independencia 252 5B, Santiago del Estero, Santiago del Estero
+
+Teléfono: +54 9 3854 126295
+
 Mail: [contacto@canet.com.ar](mailto:contacto@canet.com.ar)
